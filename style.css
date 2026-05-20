@@ -308,6 +308,9 @@
    .hero-bg-img {
     display: none;
   }
+  .hero-slider img {
+    display: none;
+  }
 }
 
 
